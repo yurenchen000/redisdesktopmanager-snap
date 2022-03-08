@@ -1,4 +1,4 @@
-name: redis-desktop-manager
+name: resp-app-test
 adopt-info: application
 summary: RESP.app - GUI for Redis ® (formerly RedisDesktopManager)
 description: Cross-platform GUI management tool for Redis
